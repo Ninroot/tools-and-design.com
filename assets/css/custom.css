@@ -1,0 +1,9 @@
+/* pour faire un commentaire ctrl+/ */
+
+a {
+    color: #ff6863;
+}
+
+a:hover {
+    color: red;
+}
